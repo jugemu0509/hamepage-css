@@ -1,0 +1,7 @@
+table {
+  border-collapse: collapse; color: ; /* 全体の文字色 */
+  background-color: #f0f2f7; /* 全体の背景色 */
+}
+td {
+  padding: 5px 15px; /* 上下 左右 */
+}
